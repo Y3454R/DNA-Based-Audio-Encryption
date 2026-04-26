@@ -16,7 +16,7 @@ A novel audio encryption system that uses DNA sequence mapping and complementary
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Y3454R/DNA-Based-Audio-Encryption.git
 cd DNA-Based-Audio-Encryption
 ```
 
